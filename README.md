@@ -8,10 +8,6 @@ This is a leaderboard website that displays scores submitted by different player
 - JavaScript
 - webpack
 
-## Live Demo
-
-[Live Demo](https://direakanbi.github.io/LeaderBoard-API/)
-
 # Install Instruction
 1. Open your terminal and `cd` to a proper location.
 2. Clone the Repo on you computer using `git@github.com:direakanbi/LeaderBoard-API.git`
