@@ -9,7 +9,7 @@ async function getID() {
     {
       method: 'POST',
       body: JSON.stringify({
-        name: 'Call Of Duty',
+        name: 'Formula 1',
       }),
       headers: {
         'Content-type': 'application/json; charset=UTF-8',
