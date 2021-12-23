@@ -10,7 +10,7 @@ This is a leaderboard website that displays scores submitted by different player
 
 ## Live Demo
 
-[Live Demo](https://chaw-bot.github.io/Leaderboard/dist/)
+[Live Demo](https://direakanbi.github.io/LeaderBoard-API/)
 
 # Install Instruction
 1. Open your terminal and `cd` to a proper location.
